@@ -1,0 +1,22 @@
+
+
+/*This refers to the entire document body*/
+body {
+
+  padding: 10px;
+
+}
+
+div {
+	font-size: 18pt;
+    background-color: white;
+		color: #006400;
+		padding: 10px;
+		border-style: solid;
+		width: 80%;
+
+}
+
+/*canvas {
+	background-color: blue;
+}*/
